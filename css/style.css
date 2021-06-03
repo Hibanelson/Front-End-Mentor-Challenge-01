@@ -189,6 +189,9 @@ body {
     
 }
 @media (min-width: 1440px) {
+    body {
+        height: 800px;
+    }
     .container {
         width: 1110px;
     }
