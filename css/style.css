@@ -198,7 +198,7 @@ body {
     .container .text-container {
         position: relative;
         flex: 1;
-        padding: 70px 125px 70px 70px;
+        padding: 40px 70px 40px 40px;
     }
     .container .text-container h1 , .container .text-container p , .container .text-container .stats-container {
         width: 375px;
