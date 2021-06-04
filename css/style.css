@@ -132,6 +132,9 @@ body {
 
 }
 @media (min-width: 768px) {
+    body {
+        height: 800px;
+    }
     .container {
         height: 445px;
         flex-direction: row;
@@ -189,9 +192,6 @@ body {
     
 }
 @media (min-width: 1440px) {
-    body {
-        height: 800px;
-    }
     .container {
         width: 1110px;
     }
