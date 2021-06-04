@@ -202,7 +202,6 @@ body {
     }
     .container .text-container h1 , .container .text-container p , .container .text-container .stats-container {
         width: 375px;
-        font-weight: lighter;
     }
     .container .text-container h1 {
         font-size: 35px;
